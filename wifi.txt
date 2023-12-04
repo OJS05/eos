@@ -1,0 +1,2 @@
+ssid: hahhaa
+ psk: password
